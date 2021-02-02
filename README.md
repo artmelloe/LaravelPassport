@@ -323,7 +323,7 @@ Exemplos da entidade **Role**:
 }
 ```
 
-Exemplos da entidade **Permission**:
+Exemplo da entidade **Permission**:
 
 **_GET (Todos)**
 
