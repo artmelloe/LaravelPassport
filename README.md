@@ -84,7 +84,7 @@ Exemplo de **Login**:
 ```json
 {
     "email": "rafaelgrd@gmail.com",
-	"password": "12345"
+    "password": "12345"
 }
 ```
 - **Retorno:**
@@ -355,10 +355,10 @@ Exemplos da entidade **Permission**:
 
 # Questões
 
-**O que são requisitos funcionais? Cite 3 exemplos para este sistema.**
-**R:** Requisitos funcionais dizem como o sistema deve se comportar.
+**O que são requisitos funcionais? Cite 3 exemplos para este sistema.**  
+**R:** Requisitos funcionais dizem como o sistema deve se comportar.  
 **Ex:** POST de Users, GET de Roles e listagem de Users no frontend.
 
-**O que são requisitos não funcionais? Cite 3 exemplos para este sistema.**
-**R:** Requisitos não funcionais dizem como cada comportamento deve funcionar.
+**O que são requisitos não funcionais? Cite 3 exemplos para este sistema.**  
+**R:** Requisitos não funcionais dizem como cada comportamento deve funcionar.  
 **Ex:** GET deve retornar um collection, cada requisição deve levar no máximo 1 segundo e o token de acesso deve expirar em 3600 segundos.
