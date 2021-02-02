@@ -52,10 +52,10 @@ Exemplo de **Registro**:
 {
     "name": "Rafael",
     "email": "rafaelgrd@gmail.com",
-	"phone": "(37) 2242-6401",
-	"password": "12345",
+    "phone": "(37) 2242-6401",
+    "password": "12345",
     "password_confirm": "12345",
-	"role_id": 1
+    "role_id": 1
 }
 ```
 - **Retorno:**
