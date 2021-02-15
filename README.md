@@ -15,6 +15,7 @@ Aplicação desenvolvida em PHP com Laravel/MySQL.
   - Configurar o arquivo ".env" com os dados do database;
   - Rodar o comando de migrate/seed (ver: migrations e dummy datas);
   - Gerar uma nova chave para a aplicação (ver: chave de encriptação);
+  - Rodar o comando de instalação do passport (ver: instalando o passport);
   - Startar a aplicação com o serve nativo ($ php artisan serve).
 
 # Migrations e dummy datas
