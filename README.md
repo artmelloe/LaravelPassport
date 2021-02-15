@@ -30,6 +30,8 @@ Processando **dummy data**:
 $ php artisan db:seed
 ```
 
+**Observação:** Todos os usuários possuem a senha "password" como padrão.
+
 # Chave de encriptação
 
 A aplicação necessita de uma nova chave de encriptação toda vez que um novo projeto for instanciado.
@@ -38,8 +40,6 @@ Processando **chave de encriptação**:
 ```sh
 $ php artisan key:generate
 ```
-
-**Observação:** Todos os usuários possuem a senha "password" como padrão.
 
 # Instalando o Passport
 
